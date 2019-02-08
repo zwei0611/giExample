@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="EUC-KR">
-<title>git.html</title>
-</head>
-<body>
-	<font size=7>
-	 <b> git.html문서 </b> <br>
-	 <b> web문서 </b> <br>
-	</font>
-</body>
-</html>
+*{font-size:20pt;}
+a{font-size:32pt; color:green;}
+a:hover{font-size:36pt; }
+p{magin:5px; color:red;}
